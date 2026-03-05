@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Season of Memories",
+  "base_artist": "GFRIEND",
+  "createdAt": "2026-03-05T08:02:50.582682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Season of Memories",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/01_Season_of_Memories_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Season of Memories",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/02_Season_of_Memories_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Season of Memories",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/03_Season_of_Memories_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Season of Memories",
+      "artist": "GFRIEND",
+      "has_synced": true,
+      "path": "select/04_Season_of_Memories_GFRIEND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Season of Memories",
+      "artist": "여자친구",
+      "has_synced": true,
+      "path": "select/05_Season_of_Memories_여자친구.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "우리의 다정한 계절 속에 (Season Of Memories)",
+      "artist": "여자친구 (GFRIEND)",
+      "has_synced": true,
+      "path": "select/06_우리의_다정한_계절_속에_(Season_Of_Memories)_여자친구_(GFRIEND).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Season of Memories",
+      "artist": "GFRIEND",
+      "has_synced": false,
+      "path": "select/pl_01_Season_of_Memories_GFRIEND.txt"
+    }
+  ]
+}
